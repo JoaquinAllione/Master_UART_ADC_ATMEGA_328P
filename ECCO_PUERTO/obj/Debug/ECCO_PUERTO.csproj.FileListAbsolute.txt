@@ -1,0 +1,18 @@
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\bin\Debug\ECCO_PUERTO.exe.config
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\bin\Debug\ECCO_PUERTO.exe
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\bin\Debug\ECCO_PUERTO.pdb
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.csprojResolveAssemblyReference.cache
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.Form1.resources
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.Properties.Resources.resources
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.csproj.GenerateResource.Cache
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.exe
+C:\Users\Joaquin\Desktop\Archivos Facultad\1er Cuatrimestre 4to Año\Sistemas Digitales 2\Codigos con UART\UART0_EJEMPLO_ECCO\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.pdb
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\bin\Debug\ECCO_PUERTO.exe.config
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.exe
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.pdb
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\bin\Debug\ECCO_PUERTO.exe
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\bin\Debug\ECCO_PUERTO.pdb
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.csprojResolveAssemblyReference.cache
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.Form1.resources
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.Properties.Resources.resources
+C:\Users\Joaquin\Desktop\ECCO_PUERTO\ECCO_PUERTO\obj\Debug\ECCO_PUERTO.csproj.GenerateResource.Cache
